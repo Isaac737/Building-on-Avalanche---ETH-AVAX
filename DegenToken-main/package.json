@@ -1,0 +1,19 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "This is a task is to create a ERC20 token and deploy it on the Avalanche network for Degen Gaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isaac Salanatin",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "dotenv": "^16.4.2"
+  }
+}
